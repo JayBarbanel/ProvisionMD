@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+
+.head-text {
+  position: relative;
+}
+.text-on-image {
+ position: absolute;
+ right: 20%;
+ left: -23%;
+ bottom: 50%;
+ color:white;
+ 
+}
+
+.welcome{
+  font-size: 65px;
+}
+
+.text-one{
+  font-size: 28px;
+}
