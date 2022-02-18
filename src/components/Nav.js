@@ -9,7 +9,7 @@ import {
 
 function NavBar (){
     return(
-        <Navbar bg="light" expand="lg">
+        <Navbar bg="light" expand="md">
         <Container>
           <Navbar.Brand href="#home">React-Bootstrap</Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
