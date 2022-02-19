@@ -12,16 +12,22 @@ function How (){
         <CardGroup>
   <Card>
     <Card.Body>
-      <Card.Title>How It Works</Card.Title>
+      <Card.Title>
+          <div className="how-to">
+              <h2>How It Works</h2>
+          </div>
+      </Card.Title>
       <Card.Text>
-        This is a wider card with supporting text below as a natural lead-in to
-        additional content. This content is a little bit longer.
+          <div className="instruction">
+        When you're in a rush and need to fill your perscription, <br/>
+        being on hold can be a pain.  With ProvisionMD, all you need to do is <br/>
+        sign up with your doctor, create an account and re-order online!
+        </div>
       </Card.Text>
     </Card.Body>
   </Card>
   <Card>
-    <Card.Img variant="top" src={how} />
-
+    <Card.Img className="how-to-img" src={how} />
   </Card>
 </CardGroup>
     )
