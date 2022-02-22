@@ -25,9 +25,10 @@ function How (){
         </div>
         <div>
           <ul>
-            <li>Test</li>
-            <li>Test</li>
-            <li>Test</li>
+            <li>Talk to your doctor about siging up.</li>
+            <li>Easily run all financials through your insurance.</li>
+            <li>Get online, sign in and have refill your medications.</li>
+            <li>Your order will be delivered right to your home.</li>
           </ul>
         </div>
       </Card.Text>
