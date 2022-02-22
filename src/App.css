@@ -61,16 +61,29 @@
 }
 
 
-.how-to{
+.who-we{
   margin-top: 10%;
 }
 
-.instruction{
-  margin-top: 30%;
+.wwa{
+  margin-top: 10%;
 }
 
 .how-to-img{
   margin-top: 20%;
+}
+
+.list{
+  margin-top: 10%;
+}
+
+#list{
+  list-style-type:circle;
+  margin-top: -6%;
+}
+
+#steps{
+  margin-top: 10%;
 }
 
 @media screen and (max-width: 768px) {
