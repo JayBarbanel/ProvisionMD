@@ -47,6 +47,7 @@
  left: -23%;
  bottom: 50%;
  color:white;
+
  
 }
 
@@ -56,6 +57,7 @@
 
 .text-one{
   font-size: 28px;
+ 
 }
 
 
@@ -70,3 +72,16 @@
 .how-to-img{
   margin-top: 20%;
 }
+
+@media screen and (max-width: 768px) {
+.text-one{
+  font-size: 3vwrte;
+}
+
+}
+
+@media screen and (max-width: 576px) {
+
+}
+
+
