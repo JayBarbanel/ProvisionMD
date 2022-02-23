@@ -10,7 +10,7 @@ import{
 function How (){
     return(
         <CardGroup>
-  <Card className="grid-card">
+  <Card className="grid-card-one">
     <Card.Body>
       <Card.Title>
           <div className="who-we">
@@ -28,7 +28,7 @@ function How (){
       </Card.Text>
     </Card.Body>
   </Card>
-  <Card className="grid-card">
+  <Card className="grid-card-one">
     <Card.Img className="how-to-img" src={doc} />
   </Card>
 </CardGroup>

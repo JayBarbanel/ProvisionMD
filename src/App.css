@@ -62,20 +62,28 @@
 
 
 .who-we{
-  margin-top: 20%;
+  margin-top: 25%;
+  font-size: 30px;
 }
 
 .wwa{
-  margin-top: 10%;
+  margin-top: 15%;
 }
 
 .how-to-img{
-  margin-top: 10%;
+  margin-top: 25%;
   max-width: 70%;
   max-height: auto;
   margin-left: 15%;
 }
 
+
+.how-it-img{
+  margin-top:7%;
+  max-width: 70%;
+  max-height: auto;
+  margin-left: 15%;
+}
 .list{
   margin-top: 10%;
 }
@@ -89,8 +97,22 @@
   margin-top: 10%;
 }
 
+.grid-card-one{
+  border: none!important;
+}
+
 .grid-card{
   border: none!important;
+
+}
+
+.works{
+  margin-top: 5%;
+  border: none;
+  font-size: 40px;
+  margin-bottom: 5%;
+  background-color: rgb(50, 109, 143);
+  color: white;
 }
 
 @media screen and (max-width: 768px) {
