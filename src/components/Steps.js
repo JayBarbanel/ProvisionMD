@@ -2,6 +2,7 @@ import React from 'react'
 import how from '../images/how.jpg'
 import online from '../images/online.jpg'
 import delivery from '../images/delivery.jpg'
+
 import{
     CardGroup,
     Card,
@@ -11,7 +12,7 @@ function Steps(){
     return(
 <CardGroup>
   <Card className="grid-card">
-  <Card.Title>Talk To Your Doctor</Card.Title>
+  <Card.Title>Talk To Your Doctor</Card.Title> 
   <Card.Img className="how-it-img" src={how} />
     <Card.Body>
       <Card.Text>

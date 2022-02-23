@@ -5,6 +5,7 @@ import Main from './components/Main'
 import How from './components/How'
 import Steps from './components/Steps'
 import StepsHeader from './components/StepsHeader'
+import Footer from './components/Footer'
 import { BrowserRouter as Router} from 'react-router-dom';
 
 import 'bootstrap/dist/css/bootstrap.css';
@@ -18,6 +19,7 @@ function App() {
    <How/>
    <StepsHeader/>
    <Steps/>
+   <Footer/>
     </div>
 
     </Router>
