@@ -1,5 +1,6 @@
 import React from 'react'
 import doc from '../images/doc.jpg'
+import bottle from '../images/bottle.jpg'
 import{
     CardGroup,
     Card,
@@ -19,7 +20,7 @@ function How (){
       </Card.Title>
       <Card.Text>
           <div className="wwa">
-        Anything that needs medical attnetion can be stressfull, inuding ordering perscriptions.<br/>
+        Anything that needs medical attention can be stressfull, inuding ordering perscriptions.<br/>
         At ProvisionsMD, our goal is to make the experiance easier and less of a hassle. <br/>
         One approved by your doctor and your insurance company, all you have to do is sign in, <br/>
         check off the medications you want to refill, and then we take care of the rest.

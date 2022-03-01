@@ -16,13 +16,13 @@ function Steps(){
   <Card.Img className="how-it-img" src={how} />
     <Card.Body>
       <Card.Text>
-        Speak with your Doctor about setting up an account on their end.  Once they submit your 
+        Speak with your Doctor about setting up an account.  Once they submit your 
         records and memeber ID number, all you have to do is create your account!
       </Card.Text>
     </Card.Body>
   </Card>
   <Card className="grid-card">
-  <Card.Title>Order Everything Online</Card.Title>
+  <Card.Title>Order Online</Card.Title>
   <Card.Img className="how-it-img" src={online} />
     <Card.Body>
       <Card.Text>

@@ -12,7 +12,7 @@ function Main (){
         <Card.Img variant="top" src={main}/>
         <div className="text-on-image">
         <h1 className="welcome">Welcome!</h1>
-        <p className="text-one">The Simplest Way to Saftley and Easily Refill Your Subscriptions.</p>
+        <p className="text-one">The Simplest Way to Saftley and Easily Refill Your Perscriptions.</p>
         </div>
         </div>
       </Card>
