@@ -1,12 +1,8 @@
 import React from 'react'
 import './App.css';
-import NavBar from './components/Nav'
-import Main from './components/Main'
-import How from './components/How'
-import Steps from './components/Steps'
-import StepsHeader from './components/StepsHeader'
-import Footer from './components/Footer'
-import { BrowserRouter as Router, Route} from 'react-router-dom';
+import Home from './pages/Home'
+
+import { BrowserRouter as Router} from 'react-router-dom';
 
 import 'bootstrap/dist/css/bootstrap.css';
 
@@ -15,12 +11,7 @@ function App() {
     <Router>
     
     <div className="App">
-   <NavBar/>
-   <Main/>
-   <How/>
-   <StepsHeader/>
-   <Steps/>
-   <Footer/>
+  <Home/>
     </div>
    
 
