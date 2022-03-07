@@ -13,7 +13,7 @@ import 'bootstrap/dist/css/bootstrap.css';
 function App() {
   return (
     <Router>
-      <Route exact path="/">
+    
     <div className="App">
    <NavBar/>
    <Main/>
@@ -22,11 +22,8 @@ function App() {
    <Steps/>
    <Footer/>
     </div>
-    </Route>
+   
 
-    <Route exact path="/Order">
-
-    </Route>
 
     </Router>
   );
