@@ -12,9 +12,15 @@ function App() {
   return (
     <Router>
 
-<Refill/>
+    <Home/>
+    
+        </Router>
 
-    </Router>
+//     <Router>
+
+// <Refill/>
+
+//     </Router>
   )
 }
 
