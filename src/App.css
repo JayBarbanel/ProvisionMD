@@ -116,6 +116,11 @@
   color: white;
 }
 
+h3{
+  background-color: rgb(50, 109, 143);
+  color: rgb(50, 109, 143);
+}
+
 
 
 @media screen and (max-width: 768px) {
