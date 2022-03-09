@@ -118,14 +118,36 @@
 
 h3{
   background-color: rgb(50, 109, 143);
-  color:rgb(50, 109, 143);
+  color:rgb(255, 255, 255);
+  text-align: center;
+  height: 100px;
 }
 
 .Past{
 flex-direction: column!important;
 max-width: 15%;
-margin-top: 5%;
+margin-top: 1%;
 margin-left: 5%;
+}
+
+.rowC{
+  display: flex;
+  flex-direction: row;
+}
+
+.doc{
+  max-height: 20px!important;
+  margin-top: 3%;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.pharm{
+  max-height: auto;
+  max-width: 50%;
+  margin-left: 20%;
+  margin-bottom: 2%;
+  margin-top: 2%;
 }
 
 @media screen and (max-width: 768px) {
