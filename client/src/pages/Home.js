@@ -10,7 +10,7 @@ import Footer from '../components/Footer'
 function Home(){
     return(
    <div className="App">
-   <NavBar/>
+   {/* <NavBar/> */}
    <Main/>
    <How/>
    <StepsHeader/>
