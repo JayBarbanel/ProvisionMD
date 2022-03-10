@@ -18,8 +18,7 @@ function Past(){
     <Card.Body>
       <Card.Title>ProAir HFA Albuterol Inhaler</Card.Title>
       <Card.Text>
-        This is a wider card with supporting text below as a natural lead-in to
-        additional content. This content is a little bit longer.
+    text
       </Card.Text>
     </Card.Body>
     <Card.Footer>
@@ -31,8 +30,7 @@ function Past(){
     <Card.Body>
       <Card.Title>Mylan Epinephrine Injection, 2-Units</Card.Title>
       <Card.Text>
-        This card has supporting text below as a natural lead-in to additional
-        content.{' '}
+       text
       </Card.Text>
     </Card.Body>
     <Card.Footer>
@@ -44,9 +42,7 @@ function Past(){
     <Card.Body>
       <Card.Title>Card title</Card.Title>
       <Card.Text>
-        This is a wider card with supporting text below as a natural lead-in to
-        additional content. This card has even longer content than the first to
-        show that equal height action.
+        text
       </Card.Text>
     </Card.Body>
     <Card.Footer>

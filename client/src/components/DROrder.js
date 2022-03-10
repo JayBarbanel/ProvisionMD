@@ -4,6 +4,8 @@ import{
     Card,
 }from 'react-bootstrap'
 
+import Pill from "../images/pill.jpg"
+
 
 function DROrder(){
     return (
@@ -11,7 +13,7 @@ function DROrder(){
 
 <CardGroup className="doc">
   <Card>
-    <Card.Img variant="top" src="holder.js/100px160" />
+    <Card.Img variant="top" src={Pill} />
     <Card.Body>
       <Card.Title>Card title</Card.Title>
       <Card.Text>
@@ -24,7 +26,7 @@ function DROrder(){
     </Card.Footer>
   </Card>
   <Card>
-    <Card.Img variant="top" src="holder.js/100px160" />
+    <Card.Img variant="top" src={Pill} />
     <Card.Body>
       <Card.Title>Card title</Card.Title>
       <Card.Text>
@@ -37,7 +39,7 @@ function DROrder(){
     </Card.Footer>
   </Card>
   <Card>
-    <Card.Img variant="top" src="holder.js/100px160" />
+    <Card.Img variant="top" src={Pill} />
     <Card.Body>
       <Card.Title>Card title</Card.Title>
       <Card.Text>

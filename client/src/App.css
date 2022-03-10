@@ -120,14 +120,19 @@ h3{
   background-color: rgb(50, 109, 143);
   color:rgb(255, 255, 255);
   text-align: center;
-  height: 100px;
+  height: 70px;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  padding-bottom: 19px;
+  padding-left: 25px;
 }
 
 .Past{
 flex-direction: column!important;
-max-width: 15%;
-margin-top: 1%;
-margin-left: 5%;
+max-width: 13%;
+margin-top: -32.9%;
+margin-right: 6%;
 }
 
 .rowC{
@@ -138,8 +143,8 @@ margin-left: 5%;
 .doc{
   max-height: 20px!important;
   margin-top: 3%;
-  margin-left: 5%;
-  margin-right: 5%;
+  margin-right: 2.9%;
+  margin-left: 15%;
 }
 
 .pharm{
