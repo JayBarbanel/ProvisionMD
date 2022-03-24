@@ -6,8 +6,6 @@ import{
 
 import Pill from "../images/pill.jpg"
 
-
-
 function DROrder(){
     return (
         <>
